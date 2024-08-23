@@ -1,0 +1,1 @@
+# ansible-rhel9-stig-appliance-role
